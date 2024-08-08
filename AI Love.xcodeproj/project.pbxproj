@@ -20,6 +20,16 @@
 		083166882C620DEB00056ABA /* TimQuanhDayViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 083166872C620DEB00056ABA /* TimQuanhDayViewController.swift */; };
 		0831668A2C62106F00056ABA /* TimQuanhDaySettingControllerView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 083166892C62106F00056ABA /* TimQuanhDaySettingControllerView.swift */; };
 		0831668C2C621D6E00056ABA /* TrangChuViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0831668B2C621D6E00056ABA /* TrangChuViewController.swift */; };
+		0854A87C2C6467BF006D32E5 /* TheoDoiNguoiKhacViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0854A87B2C6467BF006D32E5 /* TheoDoiNguoiKhacViewController.swift */; };
+		0854A87E2C646808006D32E5 /* TheoDoiNguoiKhacLockViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0854A87D2C646808006D32E5 /* TheoDoiNguoiKhacLockViewController.swift */; };
+		0854A8802C6468F9006D32E5 /* MatchingViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0854A87F2C6468F9006D32E5 /* MatchingViewController.swift */; };
+		0854A8822C646E1C006D32E5 /* ChatViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0854A8812C646E1C006D32E5 /* ChatViewController.swift */; };
+		0854A8842C6471CF006D32E5 /* ChatToPersonViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0854A8832C6471CF006D32E5 /* ChatToPersonViewController.swift */; };
+		0854A8862C6476A8006D32E5 /* GroupListViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0854A8852C6476A8006D32E5 /* GroupListViewController.swift */; };
+		0854A8882C6477C7006D32E5 /* GroupViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0854A8872C6477C7006D32E5 /* GroupViewController.swift */; };
+		0854A88A2C647C36006D32E5 /* SettingViewControlller.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0854A8892C647C36006D32E5 /* SettingViewControlller.swift */; };
+		0854A88C2C649CA4006D32E5 /* DieuKhoanVaDieuKienViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0854A88B2C649CA4006D32E5 /* DieuKhoanVaDieuKienViewController.swift */; };
+		0854A88E2C649EC5006D32E5 /* ChinhSachVaBaoMatviewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0854A88D2C649EC5006D32E5 /* ChinhSachVaBaoMatviewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -38,6 +48,16 @@
 		083166872C620DEB00056ABA /* TimQuanhDayViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TimQuanhDayViewController.swift; sourceTree = "<group>"; };
 		083166892C62106F00056ABA /* TimQuanhDaySettingControllerView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TimQuanhDaySettingControllerView.swift; sourceTree = "<group>"; };
 		0831668B2C621D6E00056ABA /* TrangChuViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TrangChuViewController.swift; sourceTree = "<group>"; };
+		0854A87B2C6467BF006D32E5 /* TheoDoiNguoiKhacViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TheoDoiNguoiKhacViewController.swift; sourceTree = "<group>"; };
+		0854A87D2C646808006D32E5 /* TheoDoiNguoiKhacLockViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TheoDoiNguoiKhacLockViewController.swift; sourceTree = "<group>"; };
+		0854A87F2C6468F9006D32E5 /* MatchingViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MatchingViewController.swift; sourceTree = "<group>"; };
+		0854A8812C646E1C006D32E5 /* ChatViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChatViewController.swift; sourceTree = "<group>"; };
+		0854A8832C6471CF006D32E5 /* ChatToPersonViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChatToPersonViewController.swift; sourceTree = "<group>"; };
+		0854A8852C6476A8006D32E5 /* GroupListViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GroupListViewController.swift; sourceTree = "<group>"; };
+		0854A8872C6477C7006D32E5 /* GroupViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GroupViewController.swift; sourceTree = "<group>"; };
+		0854A8892C647C36006D32E5 /* SettingViewControlller.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingViewControlller.swift; sourceTree = "<group>"; };
+		0854A88B2C649CA4006D32E5 /* DieuKhoanVaDieuKienViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DieuKhoanVaDieuKienViewController.swift; sourceTree = "<group>"; };
+		0854A88D2C649EC5006D32E5 /* ChinhSachVaBaoMatviewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChinhSachVaBaoMatviewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -92,6 +112,16 @@
 				083166872C620DEB00056ABA /* TimQuanhDayViewController.swift */,
 				083166892C62106F00056ABA /* TimQuanhDaySettingControllerView.swift */,
 				0831668B2C621D6E00056ABA /* TrangChuViewController.swift */,
+				0854A87B2C6467BF006D32E5 /* TheoDoiNguoiKhacViewController.swift */,
+				0854A87D2C646808006D32E5 /* TheoDoiNguoiKhacLockViewController.swift */,
+				0854A87F2C6468F9006D32E5 /* MatchingViewController.swift */,
+				0854A8812C646E1C006D32E5 /* ChatViewController.swift */,
+				0854A8832C6471CF006D32E5 /* ChatToPersonViewController.swift */,
+				0854A8852C6476A8006D32E5 /* GroupListViewController.swift */,
+				0854A8872C6477C7006D32E5 /* GroupViewController.swift */,
+				0854A8892C647C36006D32E5 /* SettingViewControlller.swift */,
+				0854A88B2C649CA4006D32E5 /* DieuKhoanVaDieuKienViewController.swift */,
+				0854A88D2C649EC5006D32E5 /* ChinhSachVaBaoMatviewController.swift */,
 			);
 			path = ViewController;
 			sourceTree = "<group>";
@@ -169,11 +199,21 @@
 			files = (
 				083166802C61FC9600056ABA /* Home2ViewController.swift in Sources */,
 				083166862C620D4300056ABA /* DuDoanNguoiYeuViewController.swift in Sources */,
+				0854A8842C6471CF006D32E5 /* ChatToPersonViewController.swift in Sources */,
+				0854A88E2C649EC5006D32E5 /* ChinhSachVaBaoMatviewController.swift in Sources */,
+				0854A8862C6476A8006D32E5 /* GroupListViewController.swift in Sources */,
 				0831668A2C62106F00056ABA /* TimQuanhDaySettingControllerView.swift in Sources */,
+				0854A8802C6468F9006D32E5 /* MatchingViewController.swift in Sources */,
+				0854A88A2C647C36006D32E5 /* SettingViewControlller.swift in Sources */,
+				0854A8882C6477C7006D32E5 /* GroupViewController.swift in Sources */,
 				0831666D2C61D08300056ABA /* MainViewController.swift in Sources */,
+				0854A87C2C6467BF006D32E5 /* TheoDoiNguoiKhacViewController.swift in Sources */,
 				083166842C62076500056ABA /* BangTinViewController.swift in Sources */,
 				083166692C61D08300056ABA /* AppDelegate.swift in Sources */,
+				0854A88C2C649CA4006D32E5 /* DieuKhoanVaDieuKienViewController.swift in Sources */,
 				0831668C2C621D6E00056ABA /* TrangChuViewController.swift in Sources */,
+				0854A87E2C646808006D32E5 /* TheoDoiNguoiKhacLockViewController.swift in Sources */,
+				0854A8822C646E1C006D32E5 /* ChatViewController.swift in Sources */,
 				0831666B2C61D08300056ABA /* SceneDelegate.swift in Sources */,
 				083166882C620DEB00056ABA /* TimQuanhDayViewController.swift in Sources */,
 				0831667E2C61D55E00056ABA /* HomeViewController.swift in Sources */,
